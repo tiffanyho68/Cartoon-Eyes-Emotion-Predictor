@@ -1,2 +1,2 @@
-• Developed a model with Python that predicts the emotions of cartoon characters using only their eyes through HOG feature detection and an SVM classifier, documented in a CHI format paper
+Built an SVM classifier in Python to predict cartoon character emotions from eye region features alone, using HOG (Histogram of Oriented Gradients) for feature extraction; documented in a CHI format research paper
 
